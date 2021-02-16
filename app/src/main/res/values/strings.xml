@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application 05-013</string>
+    <string name="btnPress">Press me</string>
+    <string name="pressedText">Button pressed %d times</string>
+</resources>

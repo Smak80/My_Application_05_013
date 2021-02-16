@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Приложение для гр.05-013</string>
+    <string name="btnPress">Нажми меня</string>
+    <string name="pressedText">Кнопка нажата %d раз</string>
+</resources>
